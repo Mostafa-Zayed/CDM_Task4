@@ -3,8 +3,11 @@ WebGenStudio Task Number 4
 The Simple register and login Application by native Php language 
 ## Installation
 1- must have localserver like xampp  can download from https://www.apachefriends.org/index.html for your operating system
+
 2- install xampp 
+
 3- download files project 
+
 4- go to  C:\xampp\htdocs  in your computer 
 5- put all project files in this path C:\xampp\htdocs\<project name>  
 6- run server localhost 
