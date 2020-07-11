@@ -22,3 +22,7 @@ The Simple register and login Application by native Php language
 
 10- open your browser and write  localhost/task4/public/index.php
 
+### Libraries
+1- jquery 
+
+2- bootstrap v3.3.4 
